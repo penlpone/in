@@ -26,8 +26,7 @@ https://github.com/lhie1/Rules/raw/master/Quantumult/Quantumult_URL.conf
 http://t.cn/EvcaYfW  
 
 - 备用图链地址  
-http://t.cn/EvcS8DZ  
-http://t.cn/EvcK68s  
+http://t.cn/EvcaYfW
   
 ----------------------------
 3. **Surge3规则配置说明**  
